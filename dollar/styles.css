@@ -1,0 +1,23 @@
+.major{
+   width: 47rem;
+   height: 20rem;
+   margin: 4rem; 
+   padding: 100px 12rem;
+   border: groove 2px #000;
+   background-color: #062;
+}
+.minor{
+    border-radius: 50%;
+    border: #000 solid 2px;
+    background-color: #fff;
+    width: 20rem;
+    height: 20rem;
+   
+    margin-left: 12rem;
+}
+img{
+    padding-top: 4rem;
+    padding-left: 6rem;
+}
+
+ 
